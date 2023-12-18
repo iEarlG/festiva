@@ -2,7 +2,7 @@
 import { Footer } from "@/components/shared/Footer"
 import { Header } from "@/components/shared/Header"
 
-export default function RootLayout({
+export default function MainLayout({
   children,
 }: {
   children: React.ReactNode
