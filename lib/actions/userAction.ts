@@ -3,5 +3,9 @@
 import { CreateUserParams } from "@/types/type";
 
 export const createUser =async (user: CreateUserParams) => {
-    
+    try {
+        
+    } catch (error) {
+        
+    }
 };
